@@ -31,7 +31,8 @@ header span {
     background-color: #fafaff;
     padding: 60px 0;
     min-height: 100vh;
-    display: flex;/* 📍 Свойства flexbox для размещения container-a вертикально по центру */
+    display: flex;
+    align-items: center;/* 📍 Свойства flexbox для размещения container-a вертикально по центру */
 }
 
 .main-section .wrapper {
